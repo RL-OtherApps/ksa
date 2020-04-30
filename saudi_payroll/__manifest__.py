@@ -9,7 +9,7 @@
     'author': 'Ahmad',
     'depends': ['hr', 'hr_payroll'],
     'data': [
-        'views/hr_payroll_add_view.xml',
+        'views/hr_payroll_add_view.xml','views/hr_gosi_payroll.xml',
     ],
 
     'images': ["static/description/icon.png"],
